@@ -1,5 +1,7 @@
 # Stream MP3s without uploading it to any server using HTML5 JavaScript APIs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chamathsilva/WebRtcAudio-.svg)](https://greenkeeper.io/)
+
 The code in this repository demonstrates how mp3s can be streamed between web browsers using WebAudio and WebRTC APIs.
 
 ## DEMO
